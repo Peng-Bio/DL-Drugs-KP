@@ -21,7 +21,7 @@ Key Features
 •	Data-Driven Drug Discovery: Utilizes 3,475 biotech and small-molecule drugs from DrugBank, focusing on potential candidates for KP treatment 
 as shown in Data Flow I.
 
-![image](https://github.com/user-attachments/assets/ef62b82d-05bf-41b1-b315-4beb773a8b06)
+![image](https://github.com/user-attachments/assets/9a9fa15b-4a95-48d7-adbf-de3a6de80055)
 
 •	Deep Learning Models:  as illustrated in Data Process Few II.
 
