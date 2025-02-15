@@ -21,19 +21,19 @@ Key Features
 •	Data-Driven Drug Discovery: Utilizes 3,475 biotech and small-molecule drugs from DrugBank, focusing on potential candidates for KP treatment 
 as shown in Data Flow I.
 
-![image](https://github.com/user-attachments/assets/9a9fa15b-4a95-48d7-adbf-de3a6de80055)
+![image](https://github.com/user-attachments/assets/ca428ce2-acb5-46ba-b9c5-31f110f2f785)
 
 •	Deep Learning Models:  as illustrated in Data Process Few II.
 
 ◦	Convolutional Neural Networks (CNN): Applied for classification and interaction prediction.
 ◦	Drug-Drug Interaction Analysis: Incorporates drug-drug interaction (DDI) data for improved predictions.
 
-![image](https://github.com/user-attachments/assets/038a22e2-c334-4cfd-8575-492052cd7ea0)
+![image](https://github.com/user-attachments/assets/fcd917a0-14e0-446c-9f0f-80c1a182794f)
 
 •	Evolutionary Scale Modeling (ESM) with Similarity Metrics: Used for similarity analysis of drug molecules to KP strains. Employs cosine similarity 
-to identify candidates with >85% molecular similarity to KP strains as seen in Drug-Bacterial Pairs Process Flow.
+to identify candidates with >85% molecular similarity to KP strains as seen in Drug-Bacterial Pairs Data Process Flow.
 
-![image](https://github.com/user-attachments/assets/0f9cc871-2886-4d62-9501-477c658acbfa)
+![image](https://github.com/user-attachments/assets/66f3aa35-171e-4888-9635-12257669f2e4)
 
 Results
 1.	Accuracy: Achieved approximately 72% validation accuracy for the CNN model.
